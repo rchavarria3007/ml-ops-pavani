@@ -1,6 +1,6 @@
 # TRABALHO DE CONCLUSÃO DE DISCIPLINA
 
-## [cite_start]Machine Learning Aplicado: HR Analytics Challenge [cite: 2]
+## Machine Learning Aplicado: HR Analytics Challenge [cite: 2]
 
 [cite_start]**Disciplina**: Data Science Experience [cite: 3]
 [cite_start]**Professor**: Matheus H. P. Pacheco [cite: 4]
